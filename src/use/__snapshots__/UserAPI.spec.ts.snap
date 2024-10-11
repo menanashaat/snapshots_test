@@ -1,0 +1,55 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`User API Snapshot Test > matches the snapshot for properties 1`] = `
+[
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+  [
+    "Email",
+    "FristName",
+    "LastName",
+    "Phone",
+    "id",
+  ],
+]
+`;
